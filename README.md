@@ -1,16 +1,24 @@
-# naber
+*Michael Jackson Müzik Çalar Uygulaması*
 
-A new Flutter project.
+Bu proje, Michael Jackson'ın en popüler şarkılarını dinlemek için özel olarak tasarlanmış bir Müzik Çalar Uygulamasıdır. Kullanıcılar uygulama üzerinden Michael Jackson'ın albümlerine göz atabilir, şarkıları dinleyebilir ve favori listeleri oluşturabilirler.
 
-## Getting Started
+*Özellikler*
 
-This project is a starting point for a Flutter application.
+Şarkı Listesi: Michael Jackson'ın en popüler şarkıları bir arada.
 
-A few resources to get you started if this is your first Flutter project:
+Albüm Seçimi: Kullanıcılar farklı albümler arasında gezinebilir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Favorilere Ekleme: Şarkıları favorilere ekleyerek kişisel listenizi oluşturabilirsiniz.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Çalma Kontrolleri: Şarkıları durdur, oynat, ileri ve geri sarma seçenekleri mevcut.
+
+Arka Planda Çalma: Uygulama arka planda da müzik çalmaya devam eder.
+
+Kapsamlı UI: Şık ve kullanışlı bir kullanıcı arayüzü ile kolay müzik dinleme deneyimi.
+
+*Ekran Görüntüleri*
+
+![müzik çalar1](https://github.com/user-attachments/assets/47a05c16-2ada-407b-9b83-65fabd449e16)
+
+
+![müzik çalar2](https://github.com/user-attachments/assets/4ecc5da7-5536-4c3b-96f1-37a88886a255)
