@@ -1,8 +1,8 @@
-*Michael Jackson Müzik Çalar Uygulaması*
+# Michael Jackson Müzik Çalar Uygulaması
 
 Bu proje, Michael Jackson'ın en popüler şarkılarını dinlemek için özel olarak tasarlanmış bir Müzik Çalar Uygulamasıdır. Kullanıcılar uygulama üzerinden Michael Jackson'ın albümlerine göz atabilir, şarkıları dinleyebilir ve favori listeleri oluşturabilirler.
 
-*Özellikler*
+# Özellikler
 
 Şarkı Listesi: Michael Jackson'ın en popüler şarkıları bir arada.
 
@@ -16,7 +16,7 @@ Arka Planda Çalma: Uygulama arka planda da müzik çalmaya devam eder.
 
 Kapsamlı UI: Şık ve kullanışlı bir kullanıcı arayüzü ile kolay müzik dinleme deneyimi.
 
-*Ekran Görüntüleri*
+# Ekran Görüntüleri
 
 ![müzik çalar1](https://github.com/user-attachments/assets/47a05c16-2ada-407b-9b83-65fabd449e16)
 
